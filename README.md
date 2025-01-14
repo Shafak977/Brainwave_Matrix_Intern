@@ -8,13 +8,21 @@ The Library Management System is designed to manage the operations of a library,
 
 Key Features
 Book Management: Add, update, and delete book records, including details such as title, author, ISBN, publication year, genre, and availability status.
+
 Member Management: Manage member information, including registration, contact details, and membership status.
+
 Loan Tracking: Track book loans, including loan dates, return dates, and due dates.
+
 Search Functionality: Search for books and members using various criteria.
+
 Reporting: Generate reports on book availability, overdue loans, and member activity.
+
 Technologies Used
+
 Database: MySQL for data storage and management.
 Tools: MySQL Workbench for database design and query execution.
+
+
 Task 2: Movie Rental System
 
 Overview
@@ -22,12 +30,21 @@ The Movie Rental System is designed to facilitate the rental of movies to custom
 
 Key Features
 Movie Management: Add, update, and delete movie records, including details such as title, genre, release year, rating, and availability.
+
 Customer Management: Manage customer profiles, including registration, contact information, and membership status.
+
 Rental Transactions: Track movie rentals, including rental dates, return dates, due dates, and rental status.
+
 Payment Processing: Handle payments for rentals, including payment methods and transaction history.
+
 Reporting: Generate reports on rental activity, overdue rentals, and customer behavior.
+
+
 Technologies Used
 Database: MySQL for data storage and management.
+
 Tools: MySQL Workbench for database design and query execution.
+
+
 Conclusion
 Both projects provided valuable experience in database design, SQL query development, and data management. They demonstrate my ability to create efficient systems that meet user needs and improve operational efficiency. I look forward to applying the skills and knowledge gained from these projects in future endeavors.
